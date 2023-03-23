@@ -16,7 +16,7 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 *   **Chams** - color player models to improve visibility
 *   **Stream Proof ESP** - show information about players, dropped weapons and projectiles
 *   **Visuals** - miscellaneous visual options
-*   [**Inventory Changer**](Source/InventoryChanger/) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
+*   [**Inventory Changer**](https://github.com/Svxy/TCSM/tree/main/Source/InventoryChanger) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
 *   **Sound** - modify volume of certain sound effects
 *   **Style** - select menu window layout and colors
 *   **Misc** - miscellaneous features
@@ -342,7 +342,7 @@ Currently implemented hooking methods are:
 *   VmtHook - hook a function directly in a vtable
 *   VmtSwap - create a copy of a vtable and swap the pointer on the class instance
 
-Hooking implementation files are located in [Hooks](Source/Hooks) directory.
+Hooking implementation files are located in [Hooks](https://github.com/Svxy/TCSM/tree/main/Source/Hooks) directory.
 
 ## Acknowledgments
 
