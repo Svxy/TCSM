@@ -1,6 +1,12 @@
- Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive**. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) injected into the games process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
+<h1 align=center>TCSM - TnyavnTo's Counter Strike Menu</h1>
 
-### Inject using my CSGO Injector: <a href='https://github.com/svxy/TCSM/releases/latest/CSInjection.exe'>CS-Injection</a>
+Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive**. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) injected into the games process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
+
+<h2 align=center><a href='https://github.com/Svxy/TCSM/releases/latest'>Download</a> now!</h2>
+
+### Inject using my CSGO Injector: <a href='https://github.com/Svxy/TCSM/releases/latest/download/CSInjection.exe'>CS-Injection</a>
+
+<h2 align=center>Download from the <a href='https://github.com/Svxy/TCSM/releases/latest'>Releases</a> page.</h2>
 
 ## Features
 *   **Aimbot** - aim assistance
@@ -245,7 +251,11 @@ There are two options of downloading the source code:
 
 Choose this option if you want pure source and you're not going to contribute to the repo. Download size ~600 kB.
 
+<<<<<<< .merge_file_OUSDDG
 To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/v1.0.zip).
+=======
+To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/v1.0.0.zip).
+>>>>>>> .merge_file_k0Hkce
 
 #### With [git](https://git-scm.com)
 
@@ -299,7 +309,7 @@ After following these steps you should receive `libTCSM.so` file in `build` dire
 
 <summary>Windows</summary>
 
-Open my [DLL injector](https://github.com/Svxy/TCSM/archive/refs/tags/latest/CSInjection.exe) and just inject `TCSM.dll` into `csgo.exe` process.
+Open my [DLL injector](https://github.com/Svxy/TCSM/releases/latest/download/CSInjection.exe) and just inject `TCSM.dll` into `csgo.exe` process.
 
 When injected, menu is openable under `INSERT` key.
 
