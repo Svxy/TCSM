@@ -1,12 +1,22 @@
 <h1 align=center>TCSM - TnyavnTo's Counter Strike Menu</h1>
 
+<br>
+
 Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive**. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) injected into the games process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
+
+<br>
 
 <h2 align=center><a href='https://github.com/Svxy/TCSM/releases/latest'>Download</a> now!</h2>
 
+<br>
+
 ### Inject using my CSGO Injector: <a href='https://github.com/Svxy/TCSM/releases/latest/download/CSInjection.exe'>CS-Injection</a>
 
+<br>
+
 <h2 align=center>Download from the <a href='https://github.com/Svxy/TCSM/releases/latest'>Releases</a> page.</h2>
+
+<br>
 
 ## Features
 *   **Aimbot** - aim assistance
@@ -22,7 +32,11 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 *   **Misc** - miscellaneous features
 *   **Config** - JSON-based configuration system
 
+<br>
+
 <details>
+
+<br>
 
 *   **Aimbot** - aim assistance
     *   **Enabled** - on / off master switch
@@ -238,36 +252,60 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
     *   **Reload configs** - reload configs list
 </details>
 
+<br>
+
 ## Getting started
+
+<br>
 
 ### Prerequisites
 Microsoft Visual Studio 2019 16.10 (or newer), platform toolset v142 and Windows SDK 10.0.x.x are required in order to compile TCSM. If you don't have ones, you can download VS [here](https://visualstudio.microsoft.com/) (Windows SDK is installed during Visual Studio Setup).
 
+<br>
+
 ### Downloading
+
+<br>
 
 There are two options of downloading the source code:
 
+<br>
+
 #### Without [git](https://git-scm.com)
+
+<br>
 
 Choose this option if you want pure source and you're not going to contribute to the repo. Download size ~600 kB.
 
-<<<<<<< .merge_file_OUSDDG
-To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/v1.0.zip).
-=======
+<br>
+
 To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/v1.0.0.zip).
->>>>>>> .merge_file_k0Hkce
+
+<br>
 
 #### With [git](https://git-scm.com)
 
+<br>
+
 Choose this option if you're going to contribute to the repo or you want to use version control system. Download size ~4 MB. Git is required to step further, if not installed download it [here](https://git-scm.com).
+
+<br>
 
 Open git command prompt and enter following command:
 
+<br>
+
     git clone --depth=1 https://github.com/svxy/TCSM.git
+
+<br>
 
 `TCSM` folder should have been successfully created, containing all the source files.
 
+<br>
+
 ### Compiling from source
+
+<br>
 
 <details>
 
@@ -280,6 +318,8 @@ Then change build configuration to `Release | x86` and simply press **Build solu
 If everything went right you should receive `TCSM.dll`  binary file.
 
 </details>
+
+<br>
 
 <details>
 
@@ -303,7 +343,11 @@ After following these steps you should receive `libTCSM.so` file in `build` dire
 
 </details>
 
+<br>
+
 ### Loading / Injecting into game process
+
+<br>
 
 <details>
 
@@ -315,6 +359,8 @@ When injected, menu is openable under `INSERT` key.
 
 </details>
 
+<br>
+
 <details>
 
 <summary>Linux</summary>
@@ -325,16 +371,26 @@ You can run the following script in the directory containing `libTCSM.so`:
 
 </details>
 
+<br>
+
 ### Further optimizations
 If your CPU supports AVX / AVX2 / AVX-512 instruction set, you can enable it in project settings. This should result in more performant code, optimized for your CPU. Currently SSE2 instructions are selected in project settings.
 
+<br>
+
 ## FAQ
+
+<br>
 
 ### How do I open menu?
 Press <kbd>INSERT</kbd> while focused on CS:GO window.
 
+<br>
+
 ### Where is my config file saved?
 Configuration files are saved inside `TCSM` folder in your `Documents` folder (`%USERPROFILE%\Documents\TCSM`). The config is in human readable format and can be edited (e.g, using notepad). Sometimes after updates configuration file needs to be deleted and recreated.
+
+<br>
 
 ### What hooking methods TCSM uses?
 Currently implemented hooking methods are:
@@ -342,15 +398,27 @@ Currently implemented hooking methods are:
 *   VmtHook - hook a function directly in a vtable
 *   VmtSwap - create a copy of a vtable and swap the pointer on the class instance
 
+<br>
+
 Hooking implementation files are located in [Hooks](https://github.com/Svxy/TCSM/tree/main/Source/Hooks) directory.
 
+<br>
+
 ## Acknowledgments
+
+<br>
 
 *   [ocornut](https://github.com/ocornut) and [contributors](https://github.com/ocornut/imgui/graphs/contributors) for creating and maintaining an amazing GUI library - [Dear imgui](https://github.com/ocornut/imgui).
 *   [Zer0Mem0ry](https://github.com/Zer0Mem0ry) - for great tutorials on reverse engineering and game hacking
 
+<br>
+
 ## License
 
+<br>
+
 > Copyright (c) 2023-2024 TnyavnTo/Svxy
+
+<br>
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see [LICENSE](https://github.com/svxy/TCSM/blob/main/LICENSE) file for details.
