@@ -245,7 +245,7 @@ There are two options of downloading the source code:
 
 Choose this option if you want pure source and you're not going to contribute to the repo. Download size ~600 kB.
 
-To download source code this way [click here](https://github.com/svxy/TCSM/archive/master.zip).
+To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/latest/TCSM.zip).
 
 #### With [git](https://git-scm.com)
 
@@ -299,7 +299,7 @@ After following these steps you should receive `libTCSM.so` file in `build` dire
 
 <summary>Windows</summary>
 
-Open your favorite [DLL injector](https://en.wikipedia.org/wiki/DLL_injection) and just inject `TCSM.dll` into `csgo.exe` process.
+Open my [DLL injector](https://github.com/Svxy/TCSM/archive/refs/tags/latest/CSInjection.exe) and just inject `TCSM.dll` into `csgo.exe` process.
 
 When injected, menu is openable under `INSERT` key.
 
