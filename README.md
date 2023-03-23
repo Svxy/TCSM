@@ -245,7 +245,7 @@ There are two options of downloading the source code:
 
 Choose this option if you want pure source and you're not going to contribute to the repo. Download size ~600 kB.
 
-To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/latest/TCSM.zip).
+To download source code this way [click here](https://github.com/Svxy/TCSM/archive/refs/tags/v1.0.zip).
 
 #### With [git](https://git-scm.com)
 
