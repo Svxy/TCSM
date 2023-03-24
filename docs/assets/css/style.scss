@@ -504,18 +504,20 @@ h3 {
 a {
     color: #ff0000;
     font-weight: 400;
-    text-decoration: none
+    text-decoration: underline
 }
 
 a:hover {
-    color: #810000
+    color: #810000;
+    text-decoration: underline;
 }
 
 a small {
     font-size: 11px;
     color: #ff0000;
     margin-top: -0.6em;
-    display: block
+    display: block;
+    text-decoration: underline;
 }
 
 ul {
