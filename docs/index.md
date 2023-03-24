@@ -2,7 +2,7 @@
 
 <br>
 
-Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive**. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) injected into the games process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
+Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive**. Designed as an internal cheat - [Dynamic-link library]() (DLL) injected into the games process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
 
 <br>
 
@@ -50,7 +50,7 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 
 <br>
 
-*   [**Inventory Changer**](https://github.com/Svxy/TCSM/tree/main/Source/InventoryChanger) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
+**<a href='https://github.com/Svxy/TCSM/tree/main/Source/InventoryChanger' target='_blank'>Inventory Changer</a>** - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
 
 <br>
 
@@ -806,7 +806,7 @@ Open git command prompt and enter following command:
 
 <br>
 
-`TCSM` folder should have been successfully created, containing all the source files.
+The `TCSM` folder should have been successfully created, containing all the source files.
 
 <br>
 
