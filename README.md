@@ -227,6 +227,7 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
         *   **Griefing** - report for griefing
         *   **Abusive Communications** - report for abusive communications
 
+</details>
 
 ## Contributing:
 
