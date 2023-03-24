@@ -19,17 +19,53 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 <br>
 
 ## Features
+
+<br>
+
 **Aimbot** - aim assistance
+
+<br>
+
 **Triggerbot** - automatically fires when crosshair is on enemy
+
+<br>
+
 **Backtrack** - abuse lag compensation to move players back in time
+
+<br>
+
 **Glow** - render glow effect on entities
+
+<br>
+
 **Chams** - color player models to improve visibility
+
+<br>
+
 **Stream Proof ESP** - show information about players, dropped weapons and projectiles
+
+<br>
+
 **Visuals** - miscellaneous visual options
+
+<br>
+
 *   [**Inventory Changer**](https://github.com/Svxy/TCSM/tree/main/Source/InventoryChanger) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
+
+<br>
+
 **Sound** - modify volume of certain sound effects
+
+<br>
+
 **Style** - select menu window layout and colors
+
+<br>
+
 **Misc** - miscellaneous features
+
+<br>
+
 **Config** - JSON-based configuration system
 
 <br>
@@ -39,8 +75,6 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 <br>
 
 **Aimbot** - aim assistance
-
-<br>
 
 <br>
 
