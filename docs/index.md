@@ -19,18 +19,18 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 <br>
 
 ## Features
-*   **Aimbot** - aim assistance
-*   **Triggerbot** - automatically fires when crosshair is on enemy
-*   **Backtrack** - abuse lag compensation to move players back in time
-*   **Glow** - render glow effect on entities
-*   **Chams** - color player models to improve visibility
-*   **Stream Proof ESP** - show information about players, dropped weapons and projectiles
-*   **Visuals** - miscellaneous visual options
+**Aimbot** - aim assistance
+**Triggerbot** - automatically fires when crosshair is on enemy
+**Backtrack** - abuse lag compensation to move players back in time
+**Glow** - render glow effect on entities
+**Chams** - color player models to improve visibility
+**Stream Proof ESP** - show information about players, dropped weapons and projectiles
+**Visuals** - miscellaneous visual options
 *   [**Inventory Changer**](https://github.com/Svxy/TCSM/tree/main/Source/InventoryChanger) - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
-*   **Sound** - modify volume of certain sound effects
-*   **Style** - select menu window layout and colors
-*   **Misc** - miscellaneous features
-*   **Config** - JSON-based configuration system
+**Sound** - modify volume of certain sound effects
+**Style** - select menu window layout and colors
+**Misc** - miscellaneous features
+**Config** - JSON-based configuration system
 
 <br>
 
@@ -38,132 +38,132 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 
 <br>
 
-*   **Aimbot** - aim assistance
+**Aimbot** - aim assistance
 
 <br>
 
 <br>
 
-    *   **Enabled** - on / off master switch
+    **Enabled** - on / off master switch
 
 <br>
 
-    *   **On key \[ key \]** - aimbot works only when chosen key is being held
+    **On key \[ key \]** - aimbot works only when chosen key is being held
 
 <br>
 
-    *   **Aimlock** - brings your aim to the target (affected by Smooth).
+    **Aimlock** - brings your aim to the target (affected by Smooth).
     
 <br>
 
-    *   **Silent** - aimbot is not visible on your screen (client-sided only)
+    **Silent** - aimbot is not visible on your screen (client-sided only)
     
 <br>
 
-    *   **Friendly fire** - treat allies as enemies
+    **Friendly fire** - treat allies as enemies
     
 <br>
 
-    *   **Visible only** - aim only on visible players
+    **Visible only** - aim only on visible players
     
 <br>
 
-    *   **Scoped only** - aimbot works only when using scope (applies only to sniper rifles)
+    **Scoped only** - aimbot works only when using scope (applies only to sniper rifles)
     
 <br>
 
-    *   **Ignore flash** - ignore flashbang i.e. aim when local player is flashed
+    **Ignore flash** - ignore flashbang i.e. aim when local player is flashed
     
 <br>
 
-    *   **Ignore smoke** - ignore smoke i.e. aim when target is in smoke
+    **Ignore smoke** - ignore smoke i.e. aim when target is in smoke
     
 <br>
 
-    *   **Auto shot** - shoot automatically when target found
+    **Auto shot** - shoot automatically when target found
     
 <br>
 
-    *   **Auto scope** - automatically scopes sniper rifle before shooting
+    **Auto scope** - automatically scopes sniper rifle before shooting
     
 <br>
 
-    *   **Bone** - bone which aimbot aims at
+    **Bone** - bone which aimbot aims at
     
 <br>
 
-    *   **Fov** - field-of-view which aimbot operates \[*0*-*255*\]
+    **Fov** - field-of-view which aimbot operates \[*0*-*255*\]
     
 <br>
 
-    *   **Smooth** - smooth aimbot movement in order to seem more human-like
+    **Smooth** - smooth aimbot movement in order to seem more human-like
     
 <br>
 
-    *   **Max aim inaccuracy** - maximum weapon inaccuracy allowing aimbot to run, lowering this value will e.g. disable aimbot while jumping or running
-    
-<br>
-
-
-*   **Triggerbot** - automatically fires when crosshair is on enemy
-
-<br>
-
-    *   **Enabled** - on / off master switch
-    
-<br>
-
-    *   **On key \[ key \]** - triggerbot works only when chosen key is being held
-    
-<br>
-
-    *   **Friendly fire** - treat allies as enemies
-    
-<br>
-
-    *   **Scoped only** - triggerbot works only when using scope (applies only to sniper rifles)
-    
-<br>
-
-    *   **Ignore flash** - ignore flashbang i.e. shoot when local player is flashed
-    
-<br>
-
-    *   **Ignore smoke** - ignore smoke i.e. shoot when target is in smoke
-    
-<br>
-
-    *   **Hitgroup** - body parts on which triggerbot works
-    
-<br>
-
-    *   **Shot delay** - delay time in ms (milliseconds)
-    
-<br>
-
-    *   **Min damage** - minimal damage to fire.
+    **Max aim inaccuracy** - maximum weapon inaccuracy allowing aimbot to run, lowering this value will e.g. disable aimbot while jumping or running
     
 <br>
 
 
-*   **Backtrack** - abuse lag compensation in order to move players back in time
+**Triggerbot** - automatically fires when crosshair is on enemy
 
 <br>
 
-    *   **Enabled** - on / off master switch
+    **Enabled** - on / off master switch
     
 <br>
 
-    *   **Ignore smoke** - ignore smoke i.e. backtrack when target is in smoke
+    **On key \[ key \]** - triggerbot works only when chosen key is being held
     
 <br>
 
-    *   **Time limit** - limit the backtracking window \[*1*-*200*ms\]
+    **Friendly fire** - treat allies as enemies
+    
+<br>
+
+    **Scoped only** - triggerbot works only when using scope (applies only to sniper rifles)
+    
+<br>
+
+    **Ignore flash** - ignore flashbang i.e. shoot when local player is flashed
+    
+<br>
+
+    **Ignore smoke** - ignore smoke i.e. shoot when target is in smoke
+    
+<br>
+
+    **Hitgroup** - body parts on which triggerbot works
+    
+<br>
+
+    **Shot delay** - delay time in ms (milliseconds)
+    
+<br>
+
+    **Min damage** - minimal damage to fire.
     
 <br>
 
 
-*   **Glow** - render glow effect on entities
+**Backtrack** - abuse lag compensation in order to move players back in time
+
+<br>
+
+    **Enabled** - on / off master switch
+    
+<br>
+
+    **Ignore smoke** - ignore smoke i.e. backtrack when target is in smoke
+    
+<br>
+
+    **Time limit** - limit the backtracking window \[*1*-*200*ms\]
+    
+<br>
+
+
+**Glow** - render glow effect on entities
 
 <br>
 
@@ -173,24 +173,24 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
 <br>
 
 
-    *   **Enabled** - on / off master switch
+    **Enabled** - on / off master switch
     
 <br>
 
-    *   **Health based** - color is based on player's hp
+    **Health based** - color is based on player's hp
     
 <br>
 
-    *   **Color** - glow color in rgba format
+    **Color** - glow color in rgba format
     
 <br>
 
-    *   **Style** - glow style { `Default`, `Rim3d`, `Edge`, `Edge Pulse` }
+    **Style** - glow style { `Default`, `Rim3d`, `Edge`, `Edge Pulse` }
     
 <br>
 
 
-*   **Chams** - color player models to improve visibility
+**Chams** - color player models to improve visibility
 
 <br>
 
@@ -199,251 +199,251 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
     
 <br>
 
-    *   **Enabled** - on / off master switch
+    **Enabled** - on / off master switch
     
 <br>
 
-    *   **Health based** - color is based on player's hp
+    **Health based** - color is based on player's hp
     
 <br>
 
-    *   **Blinking** - change transparency frequently
+    **Blinking** - change transparency frequently
     
 <br>
 
-    *   **Material** - material applied to model { `Normal`, `Flat`, `Animated`, `Platinum`, `Glass`, `Chrome`, `Crystal`, `Silver`, `Gold`, `Plastic`, `Glow` }
+    **Material** - material applied to model { `Normal`, `Flat`, `Animated`, `Platinum`, `Glass`, `Chrome`, `Crystal`, `Silver`, `Gold`, `Plastic`, `Glow` }
     
 <br>
 
-    *   **Wireframe** - render triangle mesh instead of solid material
+    **Wireframe** - render triangle mesh instead of solid material
     
 <br>
 
-    *   **Cover** - draw chams material on top of the original material instead of overriding it
+    **Cover** - draw chams material on top of the original material instead of overriding it
     
 <br>
 
-    *   **Ignore-Z** - draw material through walls
+    **Ignore-Z** - draw material through walls
     
 <br>
 
 
-*   **ESP** - show additional information about players and game world
+**ESP** - show additional information about players and game world
 
 <br>
 
-    1.  *Allies, Enemies*
+    1.  **Allies, Enemies*
     
 <br>
 
-        *   *All, Visible, Occluded*
+        **All, Visible, Occluded*
         
 <br>
 
 
-    2.  *Weapons*
+    2.  **Weapons*
     
 <br>
 
 
-    3.  *Projectiles*
+    3.  **Projectiles*
     
 <br>
 
-        *   *Flashbang, HE Grenade, Breach Charge, Bump Mine, Decoy Grenade, Molotov, TA Grenade, Smoke Grenade, Snowball*
+        **Flashbang, HE Grenade, Breach Charge, Bump Mine, Decoy Grenade, Molotov, TA Grenade, Smoke Grenade, Snowball*
         
 <br>
 
 
-    4.  *Danger Zone*
+    4.  **Danger Zone*
     
 <br>
 
-        *   *Sentries, Drones, Cash, Cash Dufflebag, Pistol Case, Light Case, Heavy Case, Explosive Case, Tools Case, Full Armor, Armor, Helmet, Parachute, Briefcase, Tablet Upgrade, ExoJump, Ammobox, Radar Jammer*
+        **Sentries, Drones, Cash, Cash Dufflebag, Pistol Case, Light Case, Heavy Case, Explosive Case, Tools Case, Full Armor, Armor, Helmet, Parachute, Briefcase, Tablet Upgrade, ExoJump, Ammobox, Radar Jammer*
         
 <br>
 
 
-    *   **Enabled** - on / off master switch
+    **Enabled** - on / off master switch
     
 <br>
 
-    *   **Font** - esp text font
+    **Font** - esp text font
     
 <br>
 
-    *   **Snaplines** - draw snapline to player
+    **Snaplines** - draw snapline to player
     
 <br>
 
-    *   **Eye traces** - draw player eye traces (shows where player looks)
+    **Eye traces** - draw player eye traces (shows where player looks)
     
 <br>
 
-    *   **Box** - draw 2D box over player model
+    **Box** - draw 2D box over player model
     
 <br>
 
-    *   **Name** - draw player name
+    **Name** - draw player name
     
 <br>
 
-    *   **Health** - draw player health
+    **Health** - draw player health
     
 <br>
 
-    *   **Health bar** - draw rectangle indicating player health
+    **Health bar** - draw rectangle indicating player health
     
 <br>
 
-    *   **Armor** - draw player armor
+    **Armor** - draw player armor
     
 <br>
 
-    *   **Armor bar** - draw rectangle indicating player armor
+    **Armor bar** - draw rectangle indicating player armor
     
 <br>
 
-    *   **Money** - draw player money
+    **Money** - draw player money
     
 <br>
 
-    *   **Head dot** - draw dot on player's head
+    **Head dot** - draw dot on player's head
     
 <br>
 
-    *   **Active Weapon** - draw player equipped weapon
-    
-<br>
-
-
-*   **Visuals** - miscellaneous visual options
-
-<br>
-
-    *   **Disable post-processing** - disable post-processing effects in order to increase FPS
-    
-<br>
-
-    *   **Inverse ragdoll gravity** - inverse gravitational acceleration on falling player ragdoll corpse (during death sequence)
-    
-<br>
-
-    *   **No fog** - remove fog from map for better visibility
-    
-<br>
-
-    *   **No 3d sky** - remove 3d skybox from map - increases FPS
-    
-<br>
-
-    *   **No visual recoil** - remove visual recoil punch effect
-    
-<br>
-
-    *   **No hands** - remove arms / hands model from first-person view
-    
-<br>
-
-    *   **No sleeves** - remove sleeves model from first-person view
-    
-<br>
-
-    *   **No weapons** - remove weapons model from first-person view
-    
-<br>
-
-    *   **No smoke** - remove smoke grenade effect
-    
-<br>
-
-    *   **No blur** - remove blur
-    
-<br>
-
-    *   **No scope overlay** - remove black overlay while scoping
-    
-<br>
-
-    *   **No grass** - remove grass from map in Danger Zone mode (`dz_blacksite` and `dz_sirocco` maps)
-    
-<br>
-
-    *   **No shadows** - disable dynamic shadows
-    
-<br>
-
-    *   **Wireframe smoke** - render smoke skeleton instead of particle effect
-    
-<br>
-
-    *   **Zoom \[ key \]** - enable zoom on unzoomable weapons
-    
-<br>
-
-    *   **Thirdperson** - thirdperson view
-    
-<br>
-
-    *   **Thirdperson distance** - camera distance in thirdperson view
-    
-<br>
-
-    *   **View model FOV** - change view model FOV \[*-60*-*0*-*60*\] (0 - actual view model, negative values - decreased view model, positive values - increased view model)
-    
-<br>
-
-    *   **FOV** - change view FOV \[*-60*-*0*-*60*\] (0 - actual view fov, negative values - decreased, positive values - increased)
-    
-<br>
-
-    *   **Far Z** - far clipping range, useful after disabling fog on large maps (e.g `dz_sirocco`) to render distant buildings
-    
-<br>
-
-    *   **Flash reduction** - reduces flashbang grenade effect \[*0*-*100*%\] (0 - full flash, 100 - no flash)
-    
-<br>
-
-    *   **Brightness** - control game brightness \[*0.0*-*1.0*\]
-    
-<br>
-
-    *   **Skybox** - change sky(box)
-    
-<br>
-
-    *   **World color** - set world material ambient light color
-    
-<br>
-
-    *   **Deagle spinner** - play "spinning" inspect animation when holding Deagle
-    
-<br>
-
-    *   **Screen effect** - screenspace effect - *Drone cam, Drone cam with noise, Underwater, Healthboost, Dangerzone*
-    
-<br>
-
-    *   **Hit effect** - show screen effect on enemy hit
-    
-<br>
-
-    *   **Hit marker** - show a cross detail on enemy hit
+    **Active Weapon** - draw player equipped weapon
     
 <br>
 
 
-*   **Inventory Changer** - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
+**Visuals** - miscellaneous visual options
+
+<br>
+
+    **Disable post-processing** - disable post-processing effects in order to increase FPS
+    
+<br>
+
+    **Inverse ragdoll gravity** - inverse gravitational acceleration on falling player ragdoll corpse (during death sequence)
+    
+<br>
+
+    **No fog** - remove fog from map for better visibility
+    
+<br>
+
+    **No 3d sky** - remove 3d skybox from map - increases FPS
+    
+<br>
+
+    **No visual recoil** - remove visual recoil punch effect
+    
+<br>
+
+    **No hands** - remove arms / hands model from first-person view
+    
+<br>
+
+    **No sleeves** - remove sleeves model from first-person view
+    
+<br>
+
+    **No weapons** - remove weapons model from first-person view
+    
+<br>
+
+    **No smoke** - remove smoke grenade effect
+    
+<br>
+
+    **No blur** - remove blur
+    
+<br>
+
+    **No scope overlay** - remove black overlay while scoping
+    
+<br>
+
+    **No grass** - remove grass from map in Danger Zone mode (`dz_blacksite` and `dz_sirocco` maps)
+    
+<br>
+
+    **No shadows** - disable dynamic shadows
+    
+<br>
+
+    **Wireframe smoke** - render smoke skeleton instead of particle effect
+    
+<br>
+
+    **Zoom \[ key \]** - enable zoom on unzoomable weapons
+    
+<br>
+
+    **Thirdperson** - thirdperson view
+    
+<br>
+
+    **Thirdperson distance** - camera distance in thirdperson view
+    
+<br>
+
+    **View model FOV** - change view model FOV \[*-60*-*0*-*60*\] (0 - actual view model, negative values - decreased view model, positive values - increased view model)
+    
+<br>
+
+    **FOV** - change view FOV \[*-60*-*0*-*60*\] (0 - actual view fov, negative values - decreased, positive values - increased)
+    
+<br>
+
+    **Far Z** - far clipping range, useful after disabling fog on large maps (e.g `dz_sirocco`) to render distant buildings
+    
+<br>
+
+    **Flash reduction** - reduces flashbang grenade effect \[*0*-*100*%\] (0 - full flash, 100 - no flash)
+    
+<br>
+
+    **Brightness** - control game brightness \[*0.0*-*1.0*\]
+    
+<br>
+
+    **Skybox** - change sky(box)
+    
+<br>
+
+    **World color** - set world material ambient light color
+    
+<br>
+
+    **Deagle spinner** - play "spinning" inspect animation when holding Deagle
+    
+<br>
+
+    **Screen effect** - screenspace effect - *Drone cam, Drone cam with noise, Underwater, Healthboost, Dangerzone*
+    
+<br>
+
+    **Hit effect** - show screen effect on enemy hit
+    
+<br>
+
+    **Hit marker** - show a cross detail on enemy hit
+    
+<br>
+
+
+**Inventory Changer** - add weapon skins, stickers, knives, gloves, medals and more to your in-game inventory
 
 <br>
 
 
-*   **Sound** - modify volume of certain sound effects
+**Sound** - modify volume of certain sound effects
 
 <br>
 
-    *   **Chicken volume** - volume of chicken sounds
+    **Chicken volume** - volume of chicken sounds
     
 <br>
 
@@ -452,274 +452,274 @@ Free open-source cross-platform cheat software for **Counter-Strike: Global Offe
     
 <br>
 
-    *   **Master volume** - overall volume of sounds emitted by player
+    **Master volume** - overall volume of sounds emitted by player
     
 <br>
 
-    *   **Headshot volume** - volume of headshot sound (when player gets headshoted)
+    **Headshot volume** - volume of headshot sound (when player gets headshoted)
     
 <br>
 
-    *   **Weapon volume** - volume of player weapon shots
+    **Weapon volume** - volume of player weapon shots
     
 <br>
 
-    *   **Footstep volume** - volume of player footsteps
-    
-<br>
-
-
-*   **Misc** - miscellaneous features
-
-<br>
-
-    *   **Menu key \[ key \]** - menu toggle key
+    **Footstep volume** - volume of player footsteps
     
 <br>
 
 
-    *   **Menu style** - menu style toggle (*Classic* **/** *One window*)
+**Misc** - miscellaneous features
+
+<br>
+
+    **Menu key \[ key \]** - menu toggle key
     
 <br>
 
 
-    *   **Menu colors** - menu color theme (*Dark **/** Light **/** Classic*)
+    **Menu style** - menu style toggle (*Classic* **/** *One window*)
     
 <br>
 
 
-    *   **Anti AFK kick** - avoid auto-kick by server for inactivity
+    **Menu colors** - menu color theme (*Dark **/** Light **/** Classic*)
     
 <br>
 
 
-    *   **Auto strafe** - automatically strafe in air following mouse movement
+    **Anti AFK kick** - avoid auto-kick by server for inactivity
     
 <br>
 
 
-    *   **Bunny hop** - automatically simulate space bar press / release while jump button is being held; increases movement speed
+    **Auto strafe** - automatically strafe in air following mouse movement
     
 <br>
 
 
-    *   **Clan tag** - set custom clan tag
+    **Bunny hop** - automatically simulate space bar press / release while jump button is being held; increases movement speed
     
 <br>
 
 
-    *   **Animated clan tag** - animate clan tag
+    **Clan tag** - set custom clan tag
     
 <br>
 
 
-    *   **Fast duck** - remove crouch delay
+    **Animated clan tag** - animate clan tag
     
 <br>
 
 
-    *   **Sniper crosshair** - draw crosshair while holding sniper rifle
+    **Fast duck** - remove crouch delay
     
 <br>
 
 
-    *   **Recoil crosshair** - crosshair follows recoil pattern
+    **Sniper crosshair** - draw crosshair while holding sniper rifle
     
 <br>
 
 
-    *   **Auto pistol** - fire pistols like automatic rifles
+    **Recoil crosshair** - crosshair follows recoil pattern
     
 <br>
 
 
-    *   **Auto reload** - automatically reload if weapon has empty clip
+    **Auto pistol** - fire pistols like automatic rifles
     
 <br>
 
 
-    *   **Auto accept** - automatically accept competitive match
+    **Auto reload** - automatically reload if weapon has empty clip
     
 <br>
 
 
-    *   **Radar hack** - show enemies positions on radar
+    **Auto accept** - automatically accept competitive match
     
 <br>
 
 
-    *   **Reveal ranks** - show player ranks in scoreboard in competitive modes
+    **Radar hack** - show enemies positions on radar
     
 <br>
 
 
-    *   **Reveal money** - show enemies' money in scoreboard
+    **Reveal ranks** - show player ranks in scoreboard in competitive modes
     
 <br>
 
 
-    *   **Spectator list** - show nicknames of players spectating you
+    **Reveal money** - show enemies' money in scoreboard
     
 <br>
 
 
-    *   **Watermark** - show cheat name in the upper-left screen corner and fps & ping in the upper-right corner
+    **Spectator list** - show nicknames of players spectating you
     
 <br>
 
 
-    *   **Offscreen Enemies** - draw circles on the screen indicating that there are enemies behind us
+    **Watermark** - show cheat name in the upper-left screen corner and fps & ping in the upper-right corner
     
 <br>
 
 
-    *   **Fix animation LOD** - fix aimbot inaccuracy for players behind local player
+    **Offscreen Enemies** - draw circles on the screen indicating that there are enemies behind us
     
 <br>
 
 
-    *   **Fix bone matrix** - correct client bone matrix to be closer to server one
+    **Fix animation LOD** - fix aimbot inaccuracy for players behind local player
     
 <br>
 
 
-    *   **Disable model occlusion** - draw player models even if they are behind thick walls
+    **Fix bone matrix** - correct client bone matrix to be closer to server one
     
 <br>
 
 
-    *   **Kill message** - print message to chat after killing an enemy
+    **Disable model occlusion** - draw player models even if they are behind thick walls
     
 <br>
 
 
-    *   **Name stealer** - mimic other players names
+    **Kill message** - print message to chat after killing an enemy
     
 <br>
 
 
-    *   **Custom clantag** - set a custom clantag
+    **Name stealer** - mimic other players names
     
 <br>
 
 
-    *   **Fast plant** - plants bomb on bombsite border, when holding <kbd>LMB</kbd> or <kbd>E</kbd> key
+    **Custom clantag** - set a custom clantag
     
 <br>
 
 
-    *   **Fast Stop** - stops the player faster than normal
+    **Fast plant** - plants bomb on bombsite border, when holding <kbd>LMB</kbd> or <kbd>E</kbd> key
     
 <br>
 
 
-    *   **Quick reload** - perform quick weapon switch during reload for faster reload
+    **Fast Stop** - stops the player faster than normal
     
 <br>
 
 
-    *   **Prepare revolver \[ key \]** - keep revolver cocked, optionally on key
+    **Quick reload** - perform quick weapon switch during reload for faster reload
     
 <br>
 
 
-    *   **Fix tablet signal** - allow use tablet on underground (dangerzone)
+    **Prepare revolver \[ key \]** - keep revolver cocked, optionally on key
     
 <br>
 
 
-    *   **Hit Sound** - sound emitted when hurting enemy
+    **Fix tablet signal** - allow use tablet on underground (dangerzone)
     
 <br>
 
 
-    *   **Chocked packets** - length of sequence of chocked ticks
+    **Hit Sound** - sound emitted when hurting enemy
     
 <br>
 
 
-    *   **Max angle delta** - maximum viewangles change per tick
+    **Chocked packets** - length of sequence of chocked ticks
     
 <br>
 
 
-    *   **Aspect Ratio** - allows you to change the aspect ratio
+    **Max angle delta** - maximum viewangles change per tick
     
 <br>
 
 
-    *   **Purchase List** - show the purchased equipment by enemies.
+    **Aspect Ratio** - allows you to change the aspect ratio
     
 <br>
 
 
-    *   **Reportbot** - automatically report players on server for cheating or other abusive actions
+    **Purchase List** - show the purchased equipment by enemies.
     
 <br>
 
-        *   **Enabled** - on / off master switch
+
+    **Reportbot** - automatically report players on server for cheating or other abusive actions
+    
+<br>
+
+        **Enabled** - on / off master switch
         
 <br>
 
-        *   **Target** - report target *Enemies/Allies/All*
+        **Target** - report target *Enemies/Allies/All*
         
 <br>
 
-        *   **Delay** - delay between reports, in seconds
+        **Delay** - delay between reports, in seconds
         
 <br>
 
-        *   **Aimbot** - report for aim assistance
+        **Aimbot** - report for aim assistance
         
 <br>
 
-        *   **Wallhack** - report for visual assistance
+        **Wallhack** - report for visual assistance
         
 <br>
 
-        *   **Other** - report for other assistance
+        **Other** - report for other assistance
         
 <br>
 
-        *   **Griefing** - report for griefing
+        **Griefing** - report for griefing
         
 <br>
 
-        *   **Abusive Communications** - report for abusive communications
+        **Abusive Communications** - report for abusive communications
         
 <br>
 
 
-    *   **Unhook** - unload cheat
+    **Unhook** - unload cheat
     
 <br>
 
 
-*   **Config** - JSON-based configuration system
+**Config** - JSON-based configuration system
 
 <br>
 
-    *   **Create config** - create new configuration file
+    **Create config** - create new configuration file
     
 <br>
 
-    *   **Reset config** - restore default configuration settings (does not touch saved configuration)
+    **Reset config** - restore default configuration settings (does not touch saved configuration)
     
 <br>
 
-    *   **Load selected** - load selected configuration file
+    **Load selected** - load selected configuration file
     
 <br>
 
-    *   **Save selected** - save selected configuration file
+    **Save selected** - save selected configuration file
     
 <br>
 
-    *   **Delete selected** - delete selected configuration file
+    **Delete selected** - delete selected configuration file
     
 <br>
 
-    *   **Reload configs** - reload configs list
+    **Reload configs** - reload configs list
     
 <br>
 
