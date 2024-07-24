@@ -1,3 +1,12 @@
+> [!IMPORTANT]\
+> As you all know TCSM has been deprecated/broken since the shutdown of CS:GO and the release of CS2...\
+> But guess what! <b>Sneaky's CS2 Menu (<a href='https://scs2.tnyavnto.com/'>SCS2</a>)</b> is now officially released and should last us for the foreseeable future!\
+> The cheat features most of which TCSM included with some exceptions, and definitely no inventory changer (sorry).\
+> A detailed list of features is included on the website (<a href='https://scs2.tnyavnto.com/'>https://scs2.tnyavnto.com/</a>). Much love to you all, have fun!\
+> **USE AT YOUR OWN RISK**.
+
+<hr>
+
 <h1 align=center>TCSM - TnyavnTo's Counter Strike Menu</h1>
 
 Free open-source cross-platform cheat software for **Counter-Strike: Global Offensive**. Designed as an internal cheat - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) injected into the games process. Compatible with the Steam version of the game. Available for Windows and Linux systems.
